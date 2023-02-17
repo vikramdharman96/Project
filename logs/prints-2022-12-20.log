@@ -1,0 +1,11 @@
+19:56:15.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19:56:15.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:56:16.284 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - User name provided
+19:56:16.397 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - password provided
+19:56:19.595 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - Login Passed
+19:56:22.838 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - User name provided
+19:56:22.940 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - password provided
+19:56:25.677 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - User name provided
+19:56:25.869 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - password provided
+19:56:28.997 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - User name provided
+19:56:29.097 [main] INFO  com.inetbanking.testCases.TC_LoginTest_001 - password provided
